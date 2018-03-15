@@ -1,4 +1,4 @@
-# [Spoken Conversation Search](http://jtrippas.github.io/spoken-conversational-search/)
+# [Spoken Conversational Search](http://jtrippas.github.io/spoken-conversational-search/)
 
 This repository contains the dataset created by observing participants addressing information needs of different complexity.
 
@@ -7,7 +7,7 @@ This repository contains the dataset created by observing participants addressin
 
 The file ConversationalSearchDataSet.csv contains a set of 115 transcribed conversations to solve information needs based on backstories.
 
-These transcripts were authored in 2016 collectively by:
+These transcripts were authored collectively by:
 
 **Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, and Mark Sanderson**
 
@@ -50,20 +50,38 @@ We present preliminary findings from a study of mixed initiative conversational 
 
 # Citation
 
-Please cite the article below if you use this resource in your research:
+Please cite the articles below if you use this resource in your research:
+
+[Informing the Design of Spoken Conversational Search](http://www.johannetrippas.com/papers/Trippas_CHIIR_2018.pdf) </br>
+Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, Hideo Joho and Mark Sanderson</br>
+The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR'18),  New Brunswick, New Jersey, USA, 2018.
+
 
 [How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
 Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, and Mark Sanderson <br>
-The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR), Oslo, Norway, 2017. (to appear) 
+The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR'17), Oslo, Norway, 2017.
+
+
 
 ## BibTex
 ```
-@inproceedings{trippas2016how,
+
+@InProceedings{trippas2018informing,
+title = {Informing the Design of Spoken Conversational Search},
+author = {Trippas, Johanne R. and Spina, Damiano and Cavedon, Lawrence and 
+Joho, Hideo and Sanderson, Mark},
+booktitle = {{CHIIR'18 Proceedings of the ACM SIGIR Conference on 
+Human Information Interaction and Retrieval}},
+pages={32--41},
+year = {2018}
+}
+
+@InProceedings{trippas2017how,
   title={How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis},
   author={Trippas, Johanne R and Spina, Damiano and Cavedon, Lawrence and Sanderson, Mark},
-  booktitle={Proceedings of the 2017 ACM on Conference on Human Information Interaction and Retrieval (CHIIR)},
-  year={2017},
-  organization={ACM}
+  booktitle={{CHIIR'17 Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval},
+  pages={325--328},
+  year={2017}
 }
 ```
 
