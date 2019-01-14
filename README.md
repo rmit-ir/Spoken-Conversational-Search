@@ -1,3 +1,4 @@
+
 # [Spoken Conversation Search](http://jtrippas.github.io/Spoken-Conversational-Search/)
 
 This repository contains the dataset created by observing participants addressing information needs of different complexity in an acoustic setting.
@@ -8,9 +9,9 @@ This repository contains the dataset created by observing participants addressin
 
 The file ConversationalSearchDataSet.csv contains a set of 101 transcribed conversations to solve information needs based on backstories in Trippas, Spina, Cavedon, and Sanderson (2017a).
 
+
 The collection and transcription process is described in Trippas, Spina, Cavedon, and Sanderson (2017a) and Trippas, Spina, Cavedon, and Sanderson (2017b), along with an initial analysis.
 Further analysis of the transcriptions and observations are published in Trippas, Spina, Cavedon, Joho, and Sanderson (2018).
-
 
 ## Citation
 
@@ -107,13 +108,13 @@ The data in "ConversationalSearchDataSet.csv" is of a preliminary analysis of a 
 Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, Hideo Joho, and Mark Sanderson. <br>
 In Proceedings of the 2018 Conference on Conference Human Information Interaction and Retrieval (CHIIR'18), 2018.
 
+
 # Abstracts
 
 We conducted a laboratory-based observational study where pairs of people performed search tasks communicating verbally. Examination of the discourse allowed commonly used interactions to be identified for Spoken Conversational Search (SCS). We compared the interactions to existing models of search behaviour. We find that SCS is more complex and interactive than traditional search. This work enhances our understanding of different search behaviours and proposes research opportunities for an audio-only search system. Future work will focus on creating models of search behaviour for SCS and evaluating these against actual SCS systems. (Trippas et al., 2018)
 
 
 We present preliminary findings from a study of mixed initiative conversational behaviour for informational search in an acoustic setting. The aim of the observational study is to reveal insights into how users would conduct searches over voice where a screen is absent but where users are able to converse interactively with the search system. We conducted a laboratory-based observational study of 13 pairs of participants each completing three search tasks with different cognitive complexity levels. The communication between the pairs was analysed for interaction patterns used in the search process. This setup mimics the situation of a user interacting with a search system via a speech-only interface. (Trippas et al., 2017a)
-
 
 
 #   Acknowledgments
